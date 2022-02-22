@@ -75,7 +75,13 @@ button {
 
 .menu>a:hover{
     border: 2px solid #5a6068;
-    border-radius: 2px;
+    border-radius: 5px;
+}
+
+.menu a:first-child {
+    border: 2px solid #23b7a3;
+    color: #23b7a3;
+    border-radius: 5px;
 }
 
 @media(max-width:767px) {
