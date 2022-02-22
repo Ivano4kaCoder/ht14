@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
-
 * {
      box-sizing: border-box;
 }
@@ -15,10 +13,6 @@ header {
     justify-content: center;
     gap: 100px;
     align-items: baseline;
-}
-
-.logo {
-    
 }
 
 .search {
@@ -54,7 +48,7 @@ button {
     border: none;
     cursor: pointer;
     background-image: url(images/search.png);
-    background-color: white;
+    background-color: transparent;
 }
 
 .menu {
